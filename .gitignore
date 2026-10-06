@@ -1,0 +1,17 @@
+# build outputs
+*.o
+*.elf
+*.hex
+mc
+mc.exe
+tools/host_build/host_ino
+tools/host_build/ino_with_protos.cpp
+firmware/Parafoil_Guided_Landing/host_sim/traj/
+firmware/Parafoil_Guided_Landing/host_sim/miss_*.csv
+__pycache__/
+# LaTeX intermediates
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
